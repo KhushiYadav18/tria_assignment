@@ -105,3 +105,7 @@ contact-list-app/
 - **Color-Coded Avatars**: Dynamic avatar colors based on contact name for visual distinction
 - **Smooth Animations**: Subtle hover effects and transitions for better user experience
 - **Responsive Grid**: Adaptive grid layout (1 column mobile, 2 tablet, 3 desktop)
+
+
+
+Vercel link: https://tria-phi.vercel.app/
